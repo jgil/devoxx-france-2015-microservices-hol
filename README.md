@@ -1,5 +1,7 @@
 # Devoxx France 2015 Microservices HOL
 
+[![Join the chat at https://gitter.im/jgil/devoxx-france-2015-microservices-hol](https://badges.gitter.im/jgil/devoxx-france-2015-microservices-hol.svg)](https://gitter.im/jgil/devoxx-france-2015-microservices-hol?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Prerequisites
 
 ### Develop
